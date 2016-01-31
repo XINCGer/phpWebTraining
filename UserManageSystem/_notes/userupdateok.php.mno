@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_upok" value="name:ID;datatype:int,name:username;datatype:string,name:password;datatype:string,name:question;datatype:string,name:answer;datatype:string,name:truename;datatype:string,name:sex;datatype:string,name:address;datatype:string,name:tel;datatype:string,name:QQ;datatype:string,name:email;datatype:string,name:authority;datatype:string" />
+</info>
