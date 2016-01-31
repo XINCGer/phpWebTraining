@@ -6,6 +6,6 @@
 >[Mysql 数据库基础训练](https://github.com/XINCGer/phpWebTraining/blob/master/MysqlBasicTraining.php)
 
 ##实例项目
->[一个简单的成绩查询系统](https://github.com/XINCGer/phpWebTraining/tree/master/SimpleGradeQuery) 
+>*[一个简单的成绩查询系统](https://github.com/XINCGer/phpWebTraining/tree/master/SimpleGradeQuery) 
 
->[用户管理系统](https://github.com/XINCGer/phpWebTraining/tree/master/UserManageSystem)
+>*[用户管理系统](https://github.com/XINCGer/phpWebTraining/tree/master/UserManageSystem)
