@@ -10,3 +10,4 @@
 >* [一个简单的成绩查询系统](https://github.com/XINCGer/phpWebTraining/tree/master/SimpleGradeQuery) 
 
 >* [用户管理系统](https://github.com/XINCGer/phpWebTraining/tree/master/UserManageSystem)
+>* [PHP新闻系统](https://github.com/XINCGer/phpWebTraining/tree/master/NewsManageSystem)
