@@ -1,6 +1,6 @@
 #phpWebTraining
 =====
-我学习PHP的路程与代码
+记录我学习PHP的路程与代码
 
 ##基础训练
 >* [Mysql 数据库基础训练](https://github.com/XINCGer/phpWebTraining/blob/master/MysqlBasicTraining.php)
