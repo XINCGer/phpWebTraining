@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs" value="name:ID;datatype:int,name:item;datatype:string,name:vote;datatype:int" />
+	<infoitem key="UD_Rs1" value="name:sum;datatype:real" />
+</info>
