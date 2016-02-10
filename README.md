@@ -14,3 +14,4 @@
 >* [PHP新闻系统](https://github.com/XINCGer/phpWebTraining/tree/master/NewsManageSystem)
 >* [在线投票系统](https://github.com/XINCGer/phpWebTraining/tree/master/VoteOnline)
 >* [随机数验证码](https://github.com/XINCGer/phpWebTraining/tree/master/RandImageGenerater)
+>* [留言板系统](https://github.com/XINCGer/phpWebTraining/tree/master/MessageBoardSystem)
