@@ -7,6 +7,7 @@
 >* [流程控制语句练习](https://github.com/XINCGer/phpWebTraining/tree/master/ProcessControlTraining)
 >* [数组练习](https://github.com/XINCGer/phpWebTraining/tree/master/ArrayTraining)
 >* [函数练习](https://github.com/XINCGer/phpWebTraining/tree/master/FunctionTraining)
+>* [表单练习](https://github.com/XINCGer/phpWebTraining/tree/master/FormTraining)
 
 ##实例项目
 >* [一个简单的成绩查询系统](https://github.com/XINCGer/phpWebTraining/tree/master/SimpleGradeQuery) 
