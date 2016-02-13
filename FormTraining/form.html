@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+	<title>简易的表单</title>
+</head>
+<body>
+
+<!--  Script 6-1 – form.html-->
+<form action="handle_form.php" method="post">
+	<fieldset><legend>请输入您的信息：</legend>
+	<p><b>姓名：</b>
+	<input type="text" name="name" size="20" maxlength="40" /></p>
+	<p><b>Email：</b>
+	<input type="text" name="email" size="40" maxlength="60" /></p>
+	<p><b>性别</b>
+	<input type="radio" name="gender" value="男" /> 男
+	<input type="radio" name="gender" value="女" /> 女</p>
+	<p><b>年龄</b>
+	<select name="age">
+		<option value="0-29">30岁以内</option>
+		<option value="30-60">30岁至60岁</option>
+		<option value="60+">60岁以上</option>
+	</select></p>
+	<p><b>个人简介</b>
+	<textarea name="comments" rows="3" cols="40"></textarea></p>
+	</fieldset>
+	<div align="center">
+	<input type="submit" name="submit" value="提交" />
+	</div>
+</form>
+</body>
+</html>
