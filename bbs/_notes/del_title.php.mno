@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs" value="name:bbs_ID;datatype:int,name:bbs_title;datatype:string,name:bbs_content;datatype:blob,name:bbs_name;datatype:string,name:bbs_time;datatype:string,name:bbs_face;datatype:string,name:bbs_sex;datatype:string,name:bbs_email;datatype:string,name:bbs_url;datatype:string,name:bbs_hits;datatype:int,name:bbs_main_ID;datatype:int,name:bbs_ref_ID;datatype:int,name:bbs_ref_name;datatype:string,name:bbs_ref_time;datatype:string,name:bbs_ref_content;datatype:blob,name:bbs_ref_sex;datatype:string,name:bbs_ref_url;datatype:string,name:bbs_ref_email;datatype:string" />
+</info>
