@@ -18,3 +18,4 @@
 >* [随机数验证码](https://github.com/XINCGer/phpWebTraining/tree/master/RandImageGenerater)
 >* [留言板系统](https://github.com/XINCGer/phpWebTraining/tree/master/MessageBoardSystem)
 >* [BBS论坛系统](https://github.com/XINCGer/phpWebTraining/tree/master/bbs)
+>* [在线购物商城](https://github.com/XINCGer/phpWebTraining/tree/master/OnlineShoppingMall)
