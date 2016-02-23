@@ -10,6 +10,7 @@
 >* [表单练习](https://github.com/XINCGer/phpWebTraining/tree/master/FormTraining)
 >* [文件处理(创建动态web站点)](https://github.com/XINCGer/phpWebTraining/tree/master/FileProcessing)
 >* [SQL与MYSQL](https://github.com/XINCGer/phpWebTraining/tree/master/SQL%26MYSQL)
+>* [使用PHP和MYSQL](https://github.com/XINCGer/phpWebTraining/tree/master/PHP%26MYSQL)
 
 ##实例项目
 >* [一个简单的成绩查询系统](https://github.com/XINCGer/phpWebTraining/tree/master/SimpleGradeQuery) 
