@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+	<title><?php echo $page_title;?></title>
+    <link href="includes/layout.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="content">
+		<div id="nav">
+			<h3>请选择</h3>
+			<ul>
+			<li class="navtop"><a href="index.php" title="首页">首页</a></li>
+			<?php
+if ( (isset($_COOKIE['user_id'])) && (!strpos($_SERVER['PHP_SELF'], 'logout.php')) ) {
+	echo '<li><a href="view_users.php" title="查看用户">查看用户</a></li>';
+	echo '<li><a href="password.php" title="修改密码">修改密码</a></li>';
+	echo '<li><a href="logout.php" title="注销">注销</a></li>';
+} else {
+	echo '<li><a href="register.php" title="注册">注册</a></li>';
+	echo '<li><a href="login.php" title="登录">登录</a></li>';
+}
+?>
+			</ul>
+		</div>
+		<!-- Script 10-4 - header.html -->
