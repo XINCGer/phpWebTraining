@@ -3,6 +3,7 @@
 记录我学习PHP的路程与代码
 
 ##基础训练
+>* [HTML基础练习](https://github.com/XINCGer/phpWebTraining/tree/master/HtmlBasicTraining)
 >* [Mysql 数据库基础训练](https://github.com/XINCGer/phpWebTraining/blob/master/MysqlBasicTraining.php)
 >* [流程控制语句练习](https://github.com/XINCGer/phpWebTraining/tree/master/ProcessControlTraining)
 >* [数组练习](https://github.com/XINCGer/phpWebTraining/tree/master/ArrayTraining)
