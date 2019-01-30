@@ -1,5 +1,4 @@
 # phpWebTraining
-=====
 记录我学习PHP的路程与代码
 
 ## 基础训练
@@ -24,4 +23,7 @@
 >* [随机数验证码](https://github.com/XINCGer/phpWebTraining/tree/master/RandImageGenerater)
 >* [留言板系统](https://github.com/XINCGer/phpWebTraining/tree/master/MessageBoardSystem)
 >* [BBS论坛系统](https://github.com/XINCGer/phpWebTraining/tree/master/bbs)
->* [在线购物商城](https://github.com/XINCGer/phpWebTraining/tree/master/OnlineShoppingMall)
+>* [在线购物商城](https://github.com/XINCGer/phpWebTraining/tree/master/OnlineShoppingMall)  
+
+## 资料收集  
+>* [收藏了8年的PHP优秀资源，都给你整理好了](https://www.cnblogs.com/shockerli/p/php-awsome.html)  
