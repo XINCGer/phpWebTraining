@@ -26,4 +26,3 @@
 >* [在线购物商城](https://github.com/XINCGer/phpWebTraining/tree/master/OnlineShoppingMall)  
 
 ## 资料收集  
->* [收藏了8年的PHP优秀资源，都给你整理好了](https://www.cnblogs.com/shockerli/p/php-awsome.html)  
